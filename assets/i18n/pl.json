@@ -1,0 +1,28 @@
+{
+	"next": "Dalej",
+	"back": "Wstecz",
+	"home": {
+		"welcome": "Welcome to my space!",
+		"creator": "creator",
+		"projects": "projects",
+		"articles": "articles",
+		"skills": "skills",
+		"contact": "contact",
+		"homeNav": "Strona główna",
+		"aboutNav": "O mnie",
+		"projectsNav": "Projekty",
+		"articlesNav": "Artykuły",
+		"skillsNav": "Umiejętności",
+		"contactNav": "Kontakt",
+		"hello": "hello",
+		"yourName":"Twoje imię",
+		"yourEmail": "Twój email",
+		"subject": "Temat",
+		"message": "Wiadomość",
+		"contactForm": "Formularz kontaktowy",
+		"send": "Wyślij",
+		"sendMessage": "Chcesz się ze mną skontaktować? Użyj poniższego formularza lub napisz na kontakt[at]sandralewandowska.pl"
+		}
+
+    
+}

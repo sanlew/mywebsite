@@ -1,0 +1,29 @@
+{
+	"home":{
+    "title": "",
+    "subtitle": "",
+    "welcome": "Welcome to my space!",
+    "creator": "creator",
+	"projects": "projects",
+	"articles": "articles",
+	"skills": "skills",
+	"contact": "contact",
+	"homeNav": "Home",
+	"aboutNav": "About",
+	"projectsNav": "Projects",
+	"articlesNav": "Atricles",
+	"skillsNav": "Skills",
+	"contactNav": "Contact",
+	"hello": "hello",
+	"yourName":"Your name",
+	"yourEmail": "Your email",
+	"subject": "Subject",
+	"message": "Message",
+	"contactForm": "Contact form",
+	"send": "Send",
+	"sendMessage": "Do you want send me message? Use contact form or write to contact[at]sandralewandowska.pl"
+    
+    }
+
+    
+}

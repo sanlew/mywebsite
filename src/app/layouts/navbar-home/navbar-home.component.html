@@ -1,0 +1,49 @@
+
+  <!-- Navbar -->
+  
+   <nav id="navbar-home" class="navbar fixed-top navbar-expand-lg navbar-dark scrolling-navbar " [ngClass]= "{'bg-dark': isScrolled}">
+    <div class="container">
+
+    
+
+      <!-- Collapse -->
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+        aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+
+      <!-- Links -->
+      <div class="collapse navbar-collapse justify-content-center" id="navbarSupportedContent">
+
+       <ul class="navbar-nav  ">
+          <li class="nav-item" >
+        <a class="nav-link"  href="#home">{{ 'home.homeNav' | translate }}
+            </a>
+          </li>
+          <li class="nav-item" >
+            <a class="nav-link" href="#creator">{{ 'home.aboutNav' | translate }}</a>
+          </li>
+          <li class="nav-item" >
+            <a class="nav-link" href="#projects" >{{ 'home.projectsNav' | translate }}</a>
+          </li>
+          <li class="nav-item" >
+            <a class="nav-link" href="#articles" >{{ 'home.articlesNav' | translate }}</a>
+          </li>
+           <li class="nav-item" >
+       		 <a class="nav-link"  href="#skills" >{{ 'home.skillsNav' | translate }}</a>
+    	  </li>
+     	 <li class="nav-item" >
+        	<a class="nav-link"  href="#contact">{{ 'home.contactNav' | translate }}</a>
+    	 </li>
+        </ul>
+       
+      </div>
+ <div class="btn-group float-right">
+         	<button id="plButton" class="btn btn-white" (click)="useLanguage('pl')">PL</button>
+       		<button id="enButton" class="btn btn-white" (click)="useLanguage('en')">EN</button>
+        </div>
+        
+    
+    </div>
+  </nav>
+  <!-- Navbar -->

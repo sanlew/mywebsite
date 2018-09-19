@@ -1,9 +1,14 @@
-# one-page-angular6-example
+# mywebsite
 
-Run application
-1. `npm install`
-2. `ng serve`
-3. Navigate to `http://localhost:4200/`.
+It's simple one-page layout using Angular 6.
 
-Source: https://github.com/sanlew/one-page-angular6-example
-Author: Sandra Lewandowska
+Run local:
+1. `git clone https://github.com/sanlew/mywebsite.git`
+2. `npm install`
+3. `ng serve`
+4. Navigate to `http://localhost:4200/`.
+
+
+Preview online: `https://sanlew.github.io/mywebsite/`
+
+Author: Sandra Lewandowska (`https://sandralewandowska.pl`)
